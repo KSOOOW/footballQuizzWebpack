@@ -5,7 +5,7 @@ export default class Question {
         this.league = null;
         this.season = null;
         this.answer = null;
-        this.choices = null;;
+        this.choices = null;
     }
 
     // Genère et renvoie une question - 2 requetes
